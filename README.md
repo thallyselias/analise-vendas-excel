@@ -38,7 +38,9 @@
   [dashboard_vendas.xlsx](https://github.com/user-attachments/files/24926221/dashboard_vendas.xlsx)
 
   ├── Imagem do dashboard 
-  <img width="1837" height="714" alt="image" src="https://github.com/user-attachments/assets/8295ecd6-66b3-43b5-b2a1-1004a3317673" />
+  <img width="1837" height="714" alt="image" src="https://github.com/user-attachments/assets/be6af725-28b3-41fe-9eb3-91efc268066c" />
+
+
 
 
   └── Documentação do projeto README.md
